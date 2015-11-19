@@ -22,3 +22,4 @@ script:
       EOF
     - docker build -t pigfoot/centos:4 .
     - docker push pigfoot/centos:4
+
